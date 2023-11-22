@@ -80,68 +80,36 @@ The Streamlit app will now be visible in your browser at `localhost:8501` .
 ### Note : View in Dark Dimmed mode for better experience.
 
 
-**Input:**
-
-![image](https://user-images.githubusercontent.com/74777863/143777636-b76e96ac-f975-46f2-9cf7-a0471533342f.png)
-
-**Output:**
 
 ![image](https://user-images.githubusercontent.com/74777863/143777908-4d926f70-08a3-4d60-bfd9-409f4e7cedcf.png)
 
-**Input:**
 
-![image](https://user-images.githubusercontent.com/74777863/143776780-2dc64e0c-4b86-4eda-a4c9-49962e5df06d.png)
-![image](https://user-images.githubusercontent.com/74777863/143777215-e1090e7a-1521-4cd5-9def-06772f50e6c2.png)
-![image](https://user-images.githubusercontent.com/74777863/143777251-119823d2-de15-4a33-8791-3327d1b0f5ff.png)
 
-**Output:**
 
 ![image](https://user-images.githubusercontent.com/74777863/143777918-b6bde3c6-1bcb-428c-8fb0-f238c0e9a38e.png)
 
-**Input:**
 
-![image](https://user-images.githubusercontent.com/74777863/143777278-cb67c3a7-ec0b-4ef6-9e5f-05039ffc04ac.png)
-
-**Output:**
 
 ![image](https://user-images.githubusercontent.com/74777863/143777934-73fb10ae-47f7-48e3-b536-89e0326402ae.png)
 
-**Input:** 
 
-![image](https://user-images.githubusercontent.com/74777863/143777299-4b4fde20-561a-4432-94e0-0580c6e3d8ed.png)
-
-**Output:**
 
 ![image](https://user-images.githubusercontent.com/74777863/143778039-99097379-6e1c-43ad-9cd2-e2be5f078e24.png)
 
 
-**Input:**
 
-![image](https://user-images.githubusercontent.com/74777863/143778143-81f8f361-ca70-4927-b398-9c299e1e861e.png)
-
-![image](https://user-images.githubusercontent.com/74777863/143777377-ddbcd52c-7766-46c8-8b85-730742454733.png)
-
-**Output:** 
 
 ![image](https://user-images.githubusercontent.com/74777863/143778154-2ad1f3c3-6f20-48b7-8313-cdcc1ae9a4be.png)
 
 
 
-**Input:** 
 
-![image](https://user-images.githubusercontent.com/74777863/143777431-d4f780e3-42d1-4ce0-b535-42f1e6e0fe9f.png)
-
-**Output:**
 
 ![image](https://user-images.githubusercontent.com/74777863/143778165-6574aacc-0b9f-4bdc-8e36-86beb77bc5a9.png)
 
 
 
-**Input:**
 
-![image](https://user-images.githubusercontent.com/74777863/143777440-c59cf21e-ff2f-4409-a140-b1c90ba81bc0.png)
-
-**Output:**
 
 ![image](https://user-images.githubusercontent.com/74777863/143778180-8eeeb94a-edf1-4ed4-981c-03f3dd7bf4ab.png)
 
